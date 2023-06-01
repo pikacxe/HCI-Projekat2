@@ -1,0 +1,740 @@
+﻿<?xml version="1.0"?>
+<KeyboardLayout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Keys>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\8.png</Image>
+			<Content xsi:type="xsd:string">Back</Content>
+			<Left>595</Left>
+			<Top>10</Top>
+			<Width>110</Width>
+			<Height>40</Height>
+			<VirtualKey>8</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\9.png</Image>
+			<Content xsi:type="xsd:string">Tab</Content>
+			<Left>10</Left>
+			<Top>55</Top>
+			<Width>80</Width>
+			<Height>40</Height>
+			<VirtualKey>9</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\13.png</Image>
+			<Content xsi:type="xsd:string">Enter</Content>
+			<Left>600.47470153496306</Left>
+			<Top>100</Top>
+			<Width>105</Width>
+			<Height>40</Height>
+			<VirtualKey>13</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\20.png</Image>
+			<Content xsi:type="xsd:string">Caps Lock</Content>
+			<Left>10</Left>
+			<Top>100</Top>
+			<Width>90</Width>
+			<Height>40</Height>
+			<VirtualKey>20</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\16.png</Image>
+			<Content xsi:type="xsd:string">Shift</Content>
+			<Left>10</Left>
+			<Top>145</Top>
+			<Width>60</Width>
+			<Height>40</Height>
+			<VirtualKey>16</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\91.png</Image>
+			<Content xsi:type="xsd:string">Win</Content>
+			<Left>90</Left>
+			<Top>190</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<VirtualKey>91</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\18.png</Image>
+			<Content xsi:type="xsd:string">Alt</Content>
+			<Left>135</Left>
+			<Top>190</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<VirtualKey>18</VirtualKey>
+		</Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\32.png</Image>
+			<Content xsi:type="xsd:string">Space</Content>
+			<Left>180</Left>
+			<Top>190</Top>
+			<Width>320</Width>
+			<Height>40</Height>
+			<VirtualKey>32</VirtualKey>
+		</Key>
+    <Key xsi:type="SpecialKey">
+      <Image>KeyImages\165.png</Image>
+      <Content xsi:type="xsd:string">AltGr</Content>
+      <Left>505</Left>
+      <Top>190</Top>
+      <Width>90</Width>
+      <Height>40</Height>
+      <VirtualKey>165</VirtualKey>
+    </Key>
+    <Key xsi:type="SpecialKey">
+      <Image>KeyImages\17.png</Image>
+      <Content xsi:type="xsd:string">Ctrl</Content>
+      <Left>600.47470153496306</Left>
+      <Top>190</Top>
+      <Width>105</Width>
+      <Height>40</Height>
+      <VirtualKey>17</VirtualKey>
+    </Key>
+    <Key xsi:type="SpecialKey">
+      <Image>KeyImages\16.png</Image>
+      <Content xsi:type="xsd:string">Shift</Content>
+      <Left>570.47470153496306</Left>
+      <Top>145</Top>
+      <Width>135</Width>
+      <Height>40</Height>
+      <VirtualKey>16</VirtualKey>
+    </Key>
+		<Key xsi:type="SpecialKey">
+			<Image>KeyImages\17.png</Image>
+			<Content xsi:type="xsd:string">Ctrl</Content>
+			<Left>10</Left>
+			<Top>190</Top>
+			<Width>75</Width>
+			<Height>40</Height>
+			<VirtualKey>17</VirtualKey>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\192.png</Image>
+			<Left>10</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>192</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\49.png</Image>
+			<Left>55</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>49</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\50.png</Image>
+			<Left>100</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>50</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\51.png</Image>
+			<Left>145</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>51</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\52.png</Image>
+			<Left>190</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>52</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\53.png</Image>
+			<Left>235</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>53</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\54.png</Image>
+			<Left>280</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>54</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\55.png</Image>
+			<Left>325</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>55</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\56.png</Image>
+			<Left>370</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>56</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\57.png</Image>
+			<Left>415</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>57</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\48.png</Image>
+			<Left>460</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>48</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\189.png</Image>
+			<Left>505</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>189</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\187.png</Image>
+			<Left>550</Left>
+			<Top>10</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>187</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\81.png</Image>
+			<Left>95</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>81</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\87.png</Image>
+			<Left>140</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>87</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\69.png</Image>
+			<Left>185</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>69</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\82.png</Image>
+			<Left>230</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>82</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\84.png</Image>
+			<Left>275</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>84</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\89.png</Image>
+			<Left>320</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>89</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\85.png</Image>
+			<Left>365</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>85</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\73.png</Image>
+			<Left>410</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>73</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\79.png</Image>
+			<Left>455</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>79</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\80.png</Image>
+			<Left>500</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>80</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\219.png</Image>
+			<Left>545</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>219</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\221.png</Image>
+			<Left>590</Left>
+			<Top>55</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>221</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\220.png</Image>
+			<Left>105</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>220</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\65.png</Image>
+			<Left>150</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>65</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\83.png</Image>
+			<Left>195</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>83</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\68.png</Image>
+			<Left>240</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>68</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\70.png</Image>
+			<Left>285</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>70</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\71.png</Image>
+			<Left>330</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>71</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\72.png</Image>
+			<Left>375</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>72</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\74.png</Image>
+			<Left>420</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>74</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\75.png</Image>
+			<Left>465</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>75</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\76.png</Image>
+			<Left>510</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>76</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\186.png</Image>
+			<Left>555</Left>
+			<Top>100</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>186</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\222.png</Image>
+			<Left>635</Left>
+			<Top>55</Top>
+			<Width>70</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>222</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\226.png</Image>
+			<Left>75</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>226</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\90.png</Image>
+			<Left>120</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>90</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\88.png</Image>
+			<Left>165</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>88</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\67.png</Image>
+			<Left>210</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>67</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\86.png</Image>
+			<Left>255</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>86</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\66.png</Image>
+			<Left>300</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>66</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\78.png</Image>
+			<Left>345</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>78</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\77.png</Image>
+			<Left>390</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>77</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\188.png</Image>
+			<Left>435</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>188</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\190.png</Image>
+			<Left>480</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>190</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+		<Key xsi:type="RegularKey">
+			<Image>KeyImages\191.png</Image>
+			<Left>525</Left>
+			<Top>145</Top>
+			<Width>40</Width>
+			<Height>40</Height>
+			<AltLock>false</AltLock>
+			<ShiftLock>false</ShiftLock>
+			<AltGrLock>false</AltGrLock>
+			<ControlLock>false</ControlLock>
+			<VirtualKey>191</VirtualKey>
+			<Repeat>1</Repeat>
+		</Key>
+	</Keys>
+	<Width>715</Width>
+	<Height>245</Height>
+	<KeyboardLayoutId>67699721</KeyboardLayoutId>
+</KeyboardLayout>
